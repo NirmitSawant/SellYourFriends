@@ -14,5 +14,6 @@ Use it , Get Rid of all your misery at once xD xD .
 ## Features
 - Has Filtering according to category and the behaviour of the friend.
 - Lovely Dark Mode Feature to enact the gruesome life of all of our friends.
+- Exceptionally weirdly pleasing looking Assymetric Grid View.
 - Its free to use (Even I learned it from Codelabs)
 - Has some really astonishing Animations (Seriously it does)
